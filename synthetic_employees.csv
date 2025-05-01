@@ -1,0 +1,1001 @@
+id,disability_type,experience_years,education_level,accommodations,work_preference
+0,mobility,20,master,['remote work'],hybrid
+1,mobility,11,associate,['physical workspace modifications'],in-office
+2,hearing,9,associate,['modified training materials'],in-office
+3,psychiatric,6,phd,['noise reduction'],fully remote
+4,mobility,20,phd,['remote work'],in-office
+5,cognitive,15,associate,"['noise reduction', 'flexible schedule', 'modified training materials', 'assistive technology', 'physical workspace modifications']",hybrid
+6,mobility,3,associate,['flexible schedule'],hybrid
+7,cognitive,17,master,"['modified training materials', 'assistive technology', 'flexible schedule', 'noise reduction', 'physical workspace modifications']",fully remote
+8,vision,20,phd,['remote work'],hybrid
+9,psychiatric,7,master,"['noise reduction', 'physical workspace modifications']",hybrid
+10,cognitive,6,associate,"['assistive technology', 'physical workspace modifications', 'flexible schedule']",fully remote
+11,psychiatric,5,bachelor,"['noise reduction', 'flexible schedule']",hybrid
+12,chronic health,5,phd,['noise reduction'],in-office
+13,mobility,5,phd,"['physical workspace modifications', 'remote work']",fully remote
+14,chronic health,1,master,"['physical workspace modifications', 'remote work']",in-office
+15,vision,15,high school,"['remote work', 'flexible schedule']",hybrid
+16,mobility,12,associate,['remote work'],hybrid
+17,chronic health,14,phd,"['flexible schedule', 'remote work']",hybrid
+18,cognitive,11,high school,"['flexible schedule', 'noise reduction', 'assistive technology']",hybrid
+19,vision,7,associate,['flexible schedule'],in-office
+20,mobility,2,master,['flexible schedule'],hybrid
+21,cognitive,3,bachelor,"['physical workspace modifications', 'assistive technology', 'flexible schedule', 'modified training materials']",in-office
+22,mobility,4,associate,['remote work'],in-office
+23,vision,11,phd,['physical workspace modifications'],hybrid
+24,psychiatric,6,phd,['flexible schedule'],hybrid
+25,cognitive,5,associate,"['modified training materials', 'physical workspace modifications', 'assistive technology', 'flexible schedule']",hybrid
+26,mobility,8,bachelor,"['remote work', 'physical workspace modifications']",hybrid
+27,cognitive,19,phd,"['flexible schedule', 'physical workspace modifications']",hybrid
+28,mobility,14,phd,['physical workspace modifications'],fully remote
+29,vision,11,phd,"['physical workspace modifications', 'remote work']",in-office
+30,psychiatric,12,associate,"['physical workspace modifications', 'flexible schedule']",hybrid
+31,vision,2,associate,['physical workspace modifications'],hybrid
+32,cognitive,13,high school,"['noise reduction', 'flexible schedule', 'modified training materials', 'assistive technology', 'physical workspace modifications']",in-office
+33,cognitive,6,master,"['physical workspace modifications', 'flexible schedule', 'assistive technology', 'noise reduction', 'modified training materials']",hybrid
+34,mobility,19,high school,"['remote work', 'physical workspace modifications']",in-office
+35,psychiatric,0,associate,"['flexible schedule', 'noise reduction']",fully remote
+36,cognitive,14,high school,"['physical workspace modifications', 'flexible schedule', 'assistive technology', 'modified training materials', 'noise reduction']",in-office
+37,mobility,20,associate,['physical workspace modifications'],fully remote
+38,psychiatric,11,master,['flexible schedule'],in-office
+39,mobility,13,bachelor,['remote work'],fully remote
+40,vision,5,high school,"['physical workspace modifications', 'remote work']",in-office
+41,vision,17,associate,['remote work'],in-office
+42,chronic health,16,master,"['noise reduction', 'remote work', 'flexible schedule']",hybrid
+43,hearing,11,bachelor,"['assistive technology', 'interpreter services', 'physical workspace modifications', 'modified training materials']",in-office
+44,cognitive,4,phd,"['flexible schedule', 'physical workspace modifications', 'assistive technology']",in-office
+45,mobility,9,phd,"['physical workspace modifications', 'remote work']",in-office
+46,mobility,1,phd,['flexible schedule'],hybrid
+47,cognitive,14,high school,"['noise reduction', 'assistive technology', 'physical workspace modifications', 'modified training materials']",in-office
+48,hearing,8,bachelor,['noise reduction'],hybrid
+49,vision,18,high school,['remote work'],hybrid
+50,mobility,6,bachelor,"['flexible schedule', 'remote work']",in-office
+51,mobility,12,high school,"['remote work', 'physical workspace modifications']",hybrid
+52,hearing,12,master,['assistive technology'],fully remote
+53,cognitive,11,master,"['modified training materials', 'physical workspace modifications', 'flexible schedule', 'assistive technology', 'noise reduction']",fully remote
+54,hearing,7,high school,"['noise reduction', 'interpreter services']",hybrid
+55,chronic health,10,master,['remote work'],hybrid
+56,mobility,2,associate,"['remote work', 'physical workspace modifications']",fully remote
+57,mobility,16,high school,"['remote work', 'flexible schedule']",hybrid
+58,mobility,9,high school,"['flexible schedule', 'physical workspace modifications']",hybrid
+59,psychiatric,11,bachelor,"['flexible schedule', 'noise reduction']",in-office
+60,cognitive,13,associate,"['assistive technology', 'noise reduction']",in-office
+61,mobility,3,bachelor,"['physical workspace modifications', 'flexible schedule']",hybrid
+62,mobility,11,master,['remote work'],in-office
+63,cognitive,1,high school,"['modified training materials', 'noise reduction']",hybrid
+64,psychiatric,16,high school,"['flexible schedule', 'noise reduction']",fully remote
+65,vision,14,master,"['remote work', 'flexible schedule']",in-office
+66,cognitive,4,associate,"['assistive technology', 'noise reduction', 'modified training materials', 'physical workspace modifications', 'flexible schedule']",in-office
+67,cognitive,1,master,"['physical workspace modifications', 'modified training materials', 'noise reduction', 'flexible schedule', 'assistive technology']",fully remote
+68,psychiatric,4,high school,"['noise reduction', 'physical workspace modifications']",hybrid
+69,psychiatric,15,phd,['noise reduction'],hybrid
+70,vision,17,associate,['flexible schedule'],in-office
+71,mobility,2,phd,"['flexible schedule', 'remote work']",hybrid
+72,psychiatric,1,bachelor,['noise reduction'],hybrid
+73,cognitive,10,master,"['physical workspace modifications', 'noise reduction', 'flexible schedule', 'assistive technology', 'modified training materials']",fully remote
+74,mobility,19,high school,['physical workspace modifications'],hybrid
+75,vision,1,bachelor,['physical workspace modifications'],hybrid
+76,psychiatric,11,master,"['physical workspace modifications', 'noise reduction']",in-office
+77,cognitive,1,master,"['noise reduction', 'physical workspace modifications', 'modified training materials']",hybrid
+78,hearing,11,high school,['physical workspace modifications'],in-office
+79,psychiatric,20,master,['flexible schedule'],hybrid
+80,mobility,14,bachelor,['flexible schedule'],hybrid
+81,cognitive,17,bachelor,"['physical workspace modifications', 'assistive technology', 'flexible schedule', 'noise reduction']",in-office
+82,mobility,14,associate,"['remote work', 'physical workspace modifications']",hybrid
+83,cognitive,13,associate,"['flexible schedule', 'assistive technology', 'modified training materials', 'physical workspace modifications']",in-office
+84,psychiatric,6,master,['noise reduction'],hybrid
+85,hearing,7,master,['interpreter services'],fully remote
+86,mobility,6,bachelor,['flexible schedule'],hybrid
+87,hearing,5,bachelor,['noise reduction'],in-office
+88,hearing,20,associate,['modified training materials'],in-office
+89,cognitive,12,phd,"['physical workspace modifications', 'noise reduction']",in-office
+90,mobility,15,associate,['flexible schedule'],in-office
+91,mobility,0,high school,['flexible schedule'],fully remote
+92,vision,12,bachelor,"['flexible schedule', 'remote work']",hybrid
+93,hearing,2,bachelor,"['modified training materials', 'physical workspace modifications', 'interpreter services']",in-office
+94,mobility,2,master,"['remote work', 'flexible schedule']",fully remote
+95,mobility,10,master,"['physical workspace modifications', 'flexible schedule']",fully remote
+96,hearing,0,bachelor,['interpreter services'],in-office
+97,chronic health,17,associate,['flexible schedule'],in-office
+98,hearing,20,bachelor,['assistive technology'],hybrid
+99,chronic health,11,bachelor,"['remote work', 'physical workspace modifications', 'flexible schedule']",hybrid
+100,vision,1,master,"['flexible schedule', 'remote work']",fully remote
+101,mobility,19,phd,"['physical workspace modifications', 'flexible schedule']",hybrid
+102,mobility,18,bachelor,"['remote work', 'physical workspace modifications']",hybrid
+103,hearing,7,high school,"['interpreter services', 'modified training materials', 'physical workspace modifications', 'assistive technology']",hybrid
+104,hearing,4,phd,"['assistive technology', 'interpreter services', 'noise reduction']",hybrid
+105,mobility,20,master,['remote work'],fully remote
+106,cognitive,15,high school,"['modified training materials', 'physical workspace modifications', 'assistive technology', 'flexible schedule', 'noise reduction']",hybrid
+107,hearing,2,associate,"['physical workspace modifications', 'noise reduction', 'interpreter services', 'modified training materials']",in-office
+108,cognitive,10,high school,"['flexible schedule', 'physical workspace modifications']",hybrid
+109,cognitive,1,bachelor,"['noise reduction', 'modified training materials', 'physical workspace modifications']",in-office
+110,mobility,7,associate,['flexible schedule'],hybrid
+111,mobility,1,master,['remote work'],fully remote
+112,mobility,18,associate,['remote work'],in-office
+113,mobility,2,high school,"['flexible schedule', 'remote work']",hybrid
+114,hearing,0,master,"['modified training materials', 'noise reduction']",in-office
+115,psychiatric,6,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+116,vision,20,master,['physical workspace modifications'],fully remote
+117,cognitive,8,phd,"['flexible schedule', 'assistive technology', 'physical workspace modifications']",hybrid
+118,cognitive,7,associate,"['flexible schedule', 'physical workspace modifications']",in-office
+119,mobility,8,master,['physical workspace modifications'],fully remote
+120,vision,12,master,['physical workspace modifications'],hybrid
+121,chronic health,0,high school,"['noise reduction', 'flexible schedule']",hybrid
+122,mobility,18,high school,"['physical workspace modifications', 'remote work']",hybrid
+123,psychiatric,16,master,['flexible schedule'],hybrid
+124,psychiatric,6,associate,"['flexible schedule', 'physical workspace modifications']",in-office
+125,mobility,15,high school,"['remote work', 'flexible schedule']",fully remote
+126,vision,19,master,['flexible schedule'],fully remote
+127,cognitive,9,master,"['assistive technology', 'flexible schedule']",fully remote
+128,hearing,8,associate,['modified training materials'],in-office
+129,hearing,13,master,"['noise reduction', 'interpreter services', 'assistive technology']",in-office
+130,hearing,10,phd,"['physical workspace modifications', 'modified training materials', 'assistive technology']",fully remote
+131,mobility,6,high school,['remote work'],hybrid
+132,chronic health,2,master,"['noise reduction', 'flexible schedule', 'remote work']",hybrid
+133,vision,18,master,['remote work'],in-office
+134,mobility,20,master,"['physical workspace modifications', 'flexible schedule']",fully remote
+135,mobility,2,bachelor,['remote work'],in-office
+136,vision,1,high school,"['remote work', 'flexible schedule']",fully remote
+137,chronic health,10,high school,"['remote work', 'physical workspace modifications']",in-office
+138,vision,1,high school,"['remote work', 'physical workspace modifications']",fully remote
+139,cognitive,14,master,"['assistive technology', 'noise reduction']",in-office
+140,vision,4,bachelor,['flexible schedule'],hybrid
+141,chronic health,11,master,"['noise reduction', 'remote work', 'physical workspace modifications']",in-office
+142,cognitive,3,associate,"['modified training materials', 'assistive technology']",fully remote
+143,vision,7,master,"['flexible schedule', 'physical workspace modifications']",fully remote
+144,cognitive,17,bachelor,"['assistive technology', 'flexible schedule']",in-office
+145,hearing,11,associate,"['modified training materials', 'physical workspace modifications']",fully remote
+146,vision,11,phd,"['physical workspace modifications', 'remote work']",hybrid
+147,vision,1,phd,['physical workspace modifications'],fully remote
+148,chronic health,12,master,"['physical workspace modifications', 'remote work']",hybrid
+149,mobility,18,high school,"['remote work', 'flexible schedule']",in-office
+150,vision,13,high school,['physical workspace modifications'],fully remote
+151,mobility,11,high school,"['flexible schedule', 'remote work']",hybrid
+152,hearing,1,bachelor,"['noise reduction', 'modified training materials', 'assistive technology']",fully remote
+153,vision,1,phd,"['flexible schedule', 'remote work']",in-office
+154,mobility,12,associate,['flexible schedule'],in-office
+155,mobility,17,master,"['remote work', 'flexible schedule']",hybrid
+156,psychiatric,7,associate,['noise reduction'],hybrid
+157,hearing,13,high school,"['assistive technology', 'interpreter services', 'physical workspace modifications']",hybrid
+158,psychiatric,3,associate,['physical workspace modifications'],in-office
+159,mobility,12,bachelor,['flexible schedule'],in-office
+160,mobility,13,bachelor,"['physical workspace modifications', 'flexible schedule']",hybrid
+161,cognitive,1,master,"['assistive technology', 'noise reduction']",hybrid
+162,cognitive,7,phd,"['noise reduction', 'flexible schedule', 'assistive technology', 'modified training materials']",in-office
+163,mobility,20,master,['remote work'],fully remote
+164,cognitive,10,associate,"['flexible schedule', 'assistive technology']",fully remote
+165,cognitive,19,associate,"['noise reduction', 'physical workspace modifications']",hybrid
+166,hearing,9,high school,['interpreter services'],hybrid
+167,mobility,18,bachelor,['remote work'],hybrid
+168,mobility,9,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+169,mobility,4,phd,['remote work'],hybrid
+170,cognitive,12,high school,"['physical workspace modifications', 'flexible schedule', 'modified training materials', 'assistive technology']",fully remote
+171,vision,14,high school,"['remote work', 'physical workspace modifications']",in-office
+172,hearing,2,bachelor,"['assistive technology', 'modified training materials']",hybrid
+173,chronic health,14,bachelor,"['remote work', 'noise reduction', 'flexible schedule']",in-office
+174,mobility,2,bachelor,"['remote work', 'physical workspace modifications']",in-office
+175,cognitive,5,master,"['physical workspace modifications', 'assistive technology']",fully remote
+176,mobility,11,master,"['remote work', 'flexible schedule']",fully remote
+177,hearing,19,master,"['noise reduction', 'physical workspace modifications']",in-office
+178,chronic health,9,master,"['noise reduction', 'flexible schedule', 'physical workspace modifications']",hybrid
+179,mobility,11,master,"['remote work', 'physical workspace modifications']",fully remote
+180,cognitive,17,phd,"['flexible schedule', 'noise reduction', 'modified training materials', 'assistive technology', 'physical workspace modifications']",fully remote
+181,hearing,2,high school,"['interpreter services', 'physical workspace modifications', 'noise reduction']",hybrid
+182,cognitive,15,phd,"['physical workspace modifications', 'flexible schedule', 'assistive technology', 'noise reduction', 'modified training materials']",in-office
+183,hearing,3,master,['noise reduction'],hybrid
+184,hearing,2,bachelor,"['physical workspace modifications', 'noise reduction']",hybrid
+185,cognitive,12,master,"['modified training materials', 'flexible schedule', 'noise reduction', 'physical workspace modifications']",hybrid
+186,psychiatric,3,phd,"['flexible schedule', 'physical workspace modifications']",in-office
+187,hearing,3,associate,"['interpreter services', 'assistive technology']",in-office
+188,vision,3,high school,['physical workspace modifications'],hybrid
+189,vision,19,associate,['physical workspace modifications'],in-office
+190,psychiatric,8,associate,"['noise reduction', 'physical workspace modifications']",fully remote
+191,mobility,13,high school,"['remote work', 'physical workspace modifications']",in-office
+192,mobility,2,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+193,cognitive,5,high school,"['noise reduction', 'assistive technology', 'flexible schedule', 'physical workspace modifications']",hybrid
+194,hearing,3,high school,['interpreter services'],hybrid
+195,cognitive,19,master,"['noise reduction', 'flexible schedule', 'modified training materials', 'physical workspace modifications', 'assistive technology']",hybrid
+196,mobility,8,master,"['flexible schedule', 'physical workspace modifications']",in-office
+197,mobility,4,associate,['remote work'],fully remote
+198,cognitive,12,phd,"['modified training materials', 'assistive technology', 'flexible schedule', 'physical workspace modifications']",hybrid
+199,hearing,14,bachelor,['noise reduction'],hybrid
+200,chronic health,2,high school,"['physical workspace modifications', 'remote work']",hybrid
+201,vision,13,bachelor,['remote work'],fully remote
+202,cognitive,7,master,"['flexible schedule', 'noise reduction', 'assistive technology']",hybrid
+203,chronic health,17,associate,"['physical workspace modifications', 'remote work', 'flexible schedule']",hybrid
+204,chronic health,16,phd,['remote work'],hybrid
+205,hearing,4,associate,['physical workspace modifications'],in-office
+206,psychiatric,11,associate,['flexible schedule'],in-office
+207,chronic health,18,associate,"['physical workspace modifications', 'noise reduction']",fully remote
+208,psychiatric,5,high school,"['noise reduction', 'flexible schedule']",in-office
+209,psychiatric,18,phd,"['noise reduction', 'flexible schedule']",hybrid
+210,cognitive,3,master,"['physical workspace modifications', 'assistive technology', 'noise reduction']",in-office
+211,chronic health,13,master,"['physical workspace modifications', 'flexible schedule']",hybrid
+212,cognitive,1,high school,"['noise reduction', 'modified training materials', 'assistive technology']",hybrid
+213,mobility,11,associate,['physical workspace modifications'],in-office
+214,hearing,2,phd,"['physical workspace modifications', 'modified training materials', 'noise reduction', 'assistive technology']",fully remote
+215,mobility,3,phd,"['physical workspace modifications', 'flexible schedule']",hybrid
+216,chronic health,5,high school,"['flexible schedule', 'remote work', 'noise reduction']",fully remote
+217,mobility,20,high school,"['physical workspace modifications', 'remote work']",hybrid
+218,psychiatric,12,bachelor,"['noise reduction', 'physical workspace modifications']",hybrid
+219,hearing,16,master,"['modified training materials', 'noise reduction', 'assistive technology']",fully remote
+220,vision,10,high school,['physical workspace modifications'],hybrid
+221,mobility,1,high school,"['physical workspace modifications', 'flexible schedule']",fully remote
+222,psychiatric,7,bachelor,['physical workspace modifications'],fully remote
+223,hearing,4,high school,['modified training materials'],in-office
+224,mobility,8,phd,"['remote work', 'flexible schedule']",hybrid
+225,mobility,5,high school,['flexible schedule'],hybrid
+226,cognitive,2,master,"['physical workspace modifications', 'flexible schedule', 'modified training materials']",fully remote
+227,mobility,15,associate,"['flexible schedule', 'physical workspace modifications']",hybrid
+228,psychiatric,2,bachelor,"['physical workspace modifications', 'noise reduction']",in-office
+229,cognitive,18,associate,"['modified training materials', 'assistive technology']",fully remote
+230,psychiatric,2,high school,['noise reduction'],in-office
+231,vision,12,master,['remote work'],fully remote
+232,mobility,6,phd,['remote work'],hybrid
+233,chronic health,5,master,"['flexible schedule', 'remote work', 'noise reduction']",in-office
+234,hearing,10,high school,"['interpreter services', 'assistive technology', 'noise reduction', 'modified training materials']",hybrid
+235,vision,3,master,"['remote work', 'flexible schedule']",hybrid
+236,vision,14,bachelor,['flexible schedule'],fully remote
+237,chronic health,15,high school,['noise reduction'],in-office
+238,mobility,2,high school,"['flexible schedule', 'remote work']",hybrid
+239,mobility,1,phd,['flexible schedule'],hybrid
+240,vision,11,associate,"['flexible schedule', 'remote work']",in-office
+241,psychiatric,20,phd,"['noise reduction', 'physical workspace modifications']",hybrid
+242,cognitive,18,associate,"['flexible schedule', 'assistive technology', 'modified training materials', 'noise reduction']",fully remote
+243,vision,7,bachelor,"['remote work', 'physical workspace modifications']",fully remote
+244,hearing,3,phd,"['physical workspace modifications', 'assistive technology']",fully remote
+245,chronic health,14,master,"['flexible schedule', 'physical workspace modifications']",hybrid
+246,hearing,17,phd,['interpreter services'],hybrid
+247,mobility,5,master,['flexible schedule'],hybrid
+248,mobility,15,master,"['flexible schedule', 'remote work']",hybrid
+249,hearing,0,bachelor,"['interpreter services', 'physical workspace modifications', 'noise reduction']",hybrid
+250,vision,6,master,['remote work'],hybrid
+251,mobility,3,bachelor,"['remote work', 'flexible schedule']",in-office
+252,chronic health,3,high school,['remote work'],hybrid
+253,hearing,12,associate,"['modified training materials', 'interpreter services', 'noise reduction']",in-office
+254,vision,20,master,"['physical workspace modifications', 'flexible schedule']",hybrid
+255,vision,18,master,"['remote work', 'flexible schedule']",fully remote
+256,psychiatric,5,phd,['noise reduction'],in-office
+257,cognitive,9,bachelor,"['physical workspace modifications', 'flexible schedule']",fully remote
+258,mobility,0,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+259,cognitive,14,associate,"['assistive technology', 'noise reduction']",hybrid
+260,mobility,6,associate,"['remote work', 'physical workspace modifications']",hybrid
+261,hearing,8,phd,['assistive technology'],in-office
+262,chronic health,20,phd,"['flexible schedule', 'remote work']",fully remote
+263,psychiatric,8,bachelor,['flexible schedule'],in-office
+264,mobility,11,master,"['flexible schedule', 'remote work']",fully remote
+265,psychiatric,4,associate,['flexible schedule'],in-office
+266,vision,3,high school,"['flexible schedule', 'physical workspace modifications']",hybrid
+267,cognitive,13,master,"['noise reduction', 'assistive technology']",in-office
+268,mobility,19,master,"['remote work', 'flexible schedule']",fully remote
+269,hearing,17,bachelor,"['noise reduction', 'physical workspace modifications']",fully remote
+270,mobility,7,phd,"['physical workspace modifications', 'remote work']",hybrid
+271,hearing,8,associate,"['noise reduction', 'physical workspace modifications']",hybrid
+272,hearing,7,associate,"['interpreter services', 'noise reduction', 'assistive technology']",hybrid
+273,mobility,5,associate,"['remote work', 'flexible schedule']",in-office
+274,mobility,13,high school,"['remote work', 'physical workspace modifications']",in-office
+275,hearing,15,high school,['modified training materials'],hybrid
+276,chronic health,1,associate,"['flexible schedule', 'noise reduction']",fully remote
+277,cognitive,4,master,"['modified training materials', 'physical workspace modifications', 'noise reduction']",hybrid
+278,vision,11,master,['remote work'],hybrid
+279,chronic health,0,high school,"['physical workspace modifications', 'remote work']",hybrid
+280,chronic health,17,associate,"['noise reduction', 'physical workspace modifications']",in-office
+281,chronic health,19,associate,"['remote work', 'physical workspace modifications']",fully remote
+282,hearing,16,phd,"['physical workspace modifications', 'assistive technology', 'interpreter services']",in-office
+283,mobility,10,high school,"['flexible schedule', 'physical workspace modifications']",in-office
+284,vision,3,phd,"['flexible schedule', 'remote work']",in-office
+285,hearing,20,bachelor,['noise reduction'],fully remote
+286,mobility,2,associate,"['remote work', 'physical workspace modifications']",fully remote
+287,mobility,17,high school,"['physical workspace modifications', 'flexible schedule']",fully remote
+288,mobility,12,master,"['flexible schedule', 'physical workspace modifications']",in-office
+289,mobility,10,phd,['remote work'],fully remote
+290,vision,3,high school,['physical workspace modifications'],in-office
+291,mobility,15,high school,"['flexible schedule', 'remote work']",hybrid
+292,psychiatric,15,bachelor,['flexible schedule'],in-office
+293,cognitive,19,master,"['assistive technology', 'noise reduction', 'flexible schedule', 'modified training materials']",fully remote
+294,mobility,0,bachelor,"['remote work', 'flexible schedule']",in-office
+295,mobility,6,bachelor,['physical workspace modifications'],in-office
+296,hearing,7,master,"['interpreter services', 'assistive technology']",in-office
+297,mobility,5,high school,"['flexible schedule', 'remote work']",fully remote
+298,cognitive,18,master,"['modified training materials', 'assistive technology', 'noise reduction', 'physical workspace modifications']",hybrid
+299,cognitive,0,master,"['flexible schedule', 'noise reduction', 'modified training materials', 'assistive technology', 'physical workspace modifications']",fully remote
+300,chronic health,0,associate,"['remote work', 'physical workspace modifications']",fully remote
+301,psychiatric,15,master,['noise reduction'],hybrid
+302,psychiatric,6,master,['noise reduction'],hybrid
+303,psychiatric,10,associate,"['physical workspace modifications', 'flexible schedule']",fully remote
+304,cognitive,17,high school,"['modified training materials', 'assistive technology']",in-office
+305,mobility,11,phd,"['remote work', 'physical workspace modifications']",fully remote
+306,vision,0,high school,"['flexible schedule', 'physical workspace modifications']",in-office
+307,cognitive,17,master,"['flexible schedule', 'assistive technology']",in-office
+308,cognitive,8,phd,"['noise reduction', 'modified training materials', 'physical workspace modifications', 'assistive technology', 'flexible schedule']",hybrid
+309,cognitive,6,master,"['flexible schedule', 'modified training materials', 'assistive technology', 'noise reduction']",fully remote
+310,mobility,15,bachelor,['physical workspace modifications'],hybrid
+311,hearing,0,associate,['noise reduction'],fully remote
+312,cognitive,7,master,"['physical workspace modifications', 'noise reduction', 'assistive technology', 'flexible schedule', 'modified training materials']",fully remote
+313,vision,10,high school,"['flexible schedule', 'physical workspace modifications']",fully remote
+314,vision,7,phd,['physical workspace modifications'],hybrid
+315,vision,6,master,"['remote work', 'physical workspace modifications']",hybrid
+316,hearing,17,master,"['physical workspace modifications', 'assistive technology', 'interpreter services']",hybrid
+317,vision,18,phd,"['flexible schedule', 'remote work']",in-office
+318,chronic health,3,master,"['remote work', 'physical workspace modifications']",hybrid
+319,cognitive,7,associate,"['physical workspace modifications', 'noise reduction', 'flexible schedule', 'modified training materials']",hybrid
+320,chronic health,0,associate,"['noise reduction', 'flexible schedule']",hybrid
+321,chronic health,17,phd,['noise reduction'],in-office
+322,mobility,3,bachelor,['flexible schedule'],fully remote
+323,cognitive,16,bachelor,"['assistive technology', 'flexible schedule']",hybrid
+324,chronic health,15,associate,"['physical workspace modifications', 'noise reduction', 'flexible schedule']",hybrid
+325,hearing,13,bachelor,['physical workspace modifications'],in-office
+326,hearing,17,associate,"['noise reduction', 'assistive technology', 'modified training materials', 'physical workspace modifications']",hybrid
+327,mobility,11,master,['physical workspace modifications'],hybrid
+328,mobility,18,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+329,mobility,12,bachelor,['remote work'],fully remote
+330,psychiatric,8,associate,['physical workspace modifications'],fully remote
+331,hearing,3,bachelor,['assistive technology'],hybrid
+332,psychiatric,5,bachelor,['flexible schedule'],fully remote
+333,mobility,3,bachelor,['remote work'],hybrid
+334,hearing,7,phd,"['noise reduction', 'interpreter services', 'modified training materials', 'physical workspace modifications']",fully remote
+335,mobility,10,phd,['remote work'],fully remote
+336,chronic health,19,master,['noise reduction'],fully remote
+337,cognitive,13,phd,"['modified training materials', 'physical workspace modifications', 'flexible schedule']",in-office
+338,mobility,1,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+339,cognitive,20,high school,"['noise reduction', 'assistive technology', 'modified training materials', 'physical workspace modifications', 'flexible schedule']",hybrid
+340,cognitive,4,associate,"['noise reduction', 'modified training materials', 'assistive technology', 'physical workspace modifications', 'flexible schedule']",hybrid
+341,psychiatric,19,bachelor,"['noise reduction', 'physical workspace modifications']",fully remote
+342,psychiatric,3,high school,"['physical workspace modifications', 'flexible schedule']",in-office
+343,hearing,17,master,['assistive technology'],hybrid
+344,mobility,9,phd,"['flexible schedule', 'remote work']",in-office
+345,mobility,8,master,['remote work'],fully remote
+346,mobility,5,bachelor,"['physical workspace modifications', 'remote work']",hybrid
+347,psychiatric,10,high school,['flexible schedule'],fully remote
+348,vision,20,high school,"['physical workspace modifications', 'flexible schedule']",fully remote
+349,psychiatric,19,high school,['flexible schedule'],fully remote
+350,psychiatric,3,bachelor,"['noise reduction', 'physical workspace modifications']",hybrid
+351,cognitive,19,high school,"['modified training materials', 'physical workspace modifications', 'noise reduction', 'flexible schedule']",hybrid
+352,vision,3,master,['physical workspace modifications'],in-office
+353,chronic health,16,high school,"['noise reduction', 'remote work', 'physical workspace modifications']",fully remote
+354,hearing,6,associate,"['physical workspace modifications', 'noise reduction', 'modified training materials', 'assistive technology']",in-office
+355,mobility,2,bachelor,['physical workspace modifications'],hybrid
+356,cognitive,1,associate,"['noise reduction', 'modified training materials', 'physical workspace modifications', 'assistive technology', 'flexible schedule']",fully remote
+357,cognitive,16,bachelor,"['modified training materials', 'flexible schedule']",hybrid
+358,mobility,7,high school,['flexible schedule'],hybrid
+359,vision,12,associate,['physical workspace modifications'],in-office
+360,mobility,17,associate,['physical workspace modifications'],hybrid
+361,vision,15,high school,"['remote work', 'physical workspace modifications']",hybrid
+362,chronic health,16,high school,"['flexible schedule', 'remote work']",fully remote
+363,mobility,20,bachelor,"['physical workspace modifications', 'flexible schedule']",fully remote
+364,cognitive,19,master,"['assistive technology', 'physical workspace modifications', 'noise reduction', 'modified training materials']",hybrid
+365,mobility,13,bachelor,['remote work'],hybrid
+366,psychiatric,4,associate,['noise reduction'],hybrid
+367,hearing,19,associate,['interpreter services'],hybrid
+368,cognitive,11,bachelor,"['assistive technology', 'noise reduction', 'modified training materials', 'physical workspace modifications', 'flexible schedule']",fully remote
+369,hearing,2,phd,"['interpreter services', 'noise reduction', 'modified training materials']",hybrid
+370,mobility,2,phd,"['remote work', 'physical workspace modifications']",hybrid
+371,hearing,2,associate,"['physical workspace modifications', 'assistive technology', 'modified training materials']",in-office
+372,mobility,5,high school,"['physical workspace modifications', 'remote work']",in-office
+373,vision,8,master,['remote work'],fully remote
+374,cognitive,11,bachelor,"['modified training materials', 'physical workspace modifications', 'assistive technology', 'flexible schedule', 'noise reduction']",hybrid
+375,cognitive,20,bachelor,"['noise reduction', 'assistive technology']",fully remote
+376,vision,20,associate,"['physical workspace modifications', 'remote work']",fully remote
+377,chronic health,5,bachelor,['remote work'],fully remote
+378,vision,8,associate,['remote work'],hybrid
+379,hearing,12,bachelor,"['modified training materials', 'noise reduction', 'physical workspace modifications']",in-office
+380,cognitive,20,master,"['noise reduction', 'assistive technology']",in-office
+381,psychiatric,17,bachelor,['noise reduction'],fully remote
+382,cognitive,5,phd,"['modified training materials', 'physical workspace modifications', 'assistive technology', 'flexible schedule']",fully remote
+383,vision,13,bachelor,"['physical workspace modifications', 'remote work']",hybrid
+384,hearing,16,associate,"['interpreter services', 'modified training materials', 'physical workspace modifications']",in-office
+385,mobility,15,associate,"['remote work', 'flexible schedule']",in-office
+386,mobility,9,associate,['remote work'],hybrid
+387,vision,18,high school,"['remote work', 'physical workspace modifications']",in-office
+388,chronic health,11,phd,"['physical workspace modifications', 'remote work', 'flexible schedule']",in-office
+389,chronic health,13,high school,"['noise reduction', 'remote work']",hybrid
+390,vision,13,master,['physical workspace modifications'],fully remote
+391,hearing,20,master,['modified training materials'],hybrid
+392,mobility,8,phd,['flexible schedule'],hybrid
+393,chronic health,4,associate,"['flexible schedule', 'physical workspace modifications']",fully remote
+394,chronic health,7,bachelor,"['remote work', 'noise reduction']",in-office
+395,psychiatric,16,high school,"['physical workspace modifications', 'noise reduction']",hybrid
+396,chronic health,2,bachelor,['remote work'],fully remote
+397,hearing,15,bachelor,"['interpreter services', 'assistive technology']",fully remote
+398,psychiatric,9,master,['noise reduction'],fully remote
+399,hearing,19,high school,['noise reduction'],in-office
+400,vision,16,associate,"['physical workspace modifications', 'flexible schedule']",hybrid
+401,hearing,13,master,['noise reduction'],in-office
+402,mobility,8,bachelor,['flexible schedule'],hybrid
+403,cognitive,15,associate,"['flexible schedule', 'modified training materials', 'noise reduction', 'assistive technology']",in-office
+404,vision,13,bachelor,['flexible schedule'],hybrid
+405,mobility,9,high school,"['remote work', 'flexible schedule']",hybrid
+406,mobility,2,bachelor,['remote work'],fully remote
+407,mobility,5,master,['physical workspace modifications'],hybrid
+408,chronic health,18,master,"['remote work', 'noise reduction']",fully remote
+409,cognitive,9,high school,"['noise reduction', 'flexible schedule', 'modified training materials', 'assistive technology', 'physical workspace modifications']",fully remote
+410,vision,11,associate,['flexible schedule'],hybrid
+411,psychiatric,11,high school,['flexible schedule'],hybrid
+412,chronic health,0,high school,['flexible schedule'],in-office
+413,cognitive,1,bachelor,"['assistive technology', 'modified training materials']",hybrid
+414,mobility,2,phd,['remote work'],hybrid
+415,mobility,4,high school,['flexible schedule'],in-office
+416,hearing,3,bachelor,"['noise reduction', 'physical workspace modifications']",fully remote
+417,vision,5,high school,"['physical workspace modifications', 'remote work']",in-office
+418,psychiatric,17,bachelor,['flexible schedule'],fully remote
+419,chronic health,11,master,"['physical workspace modifications', 'noise reduction', 'flexible schedule']",in-office
+420,hearing,11,bachelor,"['noise reduction', 'modified training materials']",hybrid
+421,mobility,0,phd,['remote work'],in-office
+422,cognitive,16,phd,"['assistive technology', 'modified training materials', 'noise reduction', 'flexible schedule', 'physical workspace modifications']",fully remote
+423,chronic health,3,high school,['noise reduction'],hybrid
+424,mobility,17,associate,['remote work'],in-office
+425,vision,19,associate,"['remote work', 'physical workspace modifications']",in-office
+426,mobility,12,high school,"['remote work', 'physical workspace modifications']",hybrid
+427,mobility,11,high school,"['physical workspace modifications', 'flexible schedule']",in-office
+428,hearing,12,phd,"['interpreter services', 'noise reduction', 'modified training materials']",hybrid
+429,hearing,14,high school,"['modified training materials', 'physical workspace modifications', 'noise reduction', 'assistive technology']",in-office
+430,mobility,10,phd,"['flexible schedule', 'remote work']",fully remote
+431,cognitive,19,high school,"['noise reduction', 'assistive technology', 'physical workspace modifications']",fully remote
+432,cognitive,7,high school,"['assistive technology', 'physical workspace modifications', 'modified training materials']",hybrid
+433,chronic health,19,master,"['flexible schedule', 'physical workspace modifications', 'remote work']",in-office
+434,vision,7,associate,['flexible schedule'],fully remote
+435,mobility,12,phd,"['physical workspace modifications', 'flexible schedule']",in-office
+436,chronic health,12,high school,"['flexible schedule', 'remote work']",in-office
+437,chronic health,2,phd,"['flexible schedule', 'remote work', 'physical workspace modifications']",hybrid
+438,cognitive,0,master,"['physical workspace modifications', 'noise reduction', 'assistive technology', 'flexible schedule']",fully remote
+439,hearing,12,phd,"['assistive technology', 'interpreter services', 'noise reduction', 'physical workspace modifications']",hybrid
+440,cognitive,6,high school,"['flexible schedule', 'physical workspace modifications', 'modified training materials', 'assistive technology']",hybrid
+441,hearing,15,bachelor,['interpreter services'],fully remote
+442,mobility,19,high school,['physical workspace modifications'],in-office
+443,mobility,6,high school,['remote work'],fully remote
+444,mobility,13,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+445,cognitive,20,associate,"['modified training materials', 'flexible schedule', 'physical workspace modifications', 'noise reduction', 'assistive technology']",fully remote
+446,psychiatric,13,master,"['flexible schedule', 'noise reduction']",hybrid
+447,mobility,14,master,['remote work'],fully remote
+448,cognitive,0,master,"['flexible schedule', 'modified training materials', 'noise reduction', 'assistive technology']",hybrid
+449,mobility,17,master,['flexible schedule'],hybrid
+450,mobility,17,high school,['flexible schedule'],hybrid
+451,mobility,3,phd,['flexible schedule'],fully remote
+452,mobility,9,master,"['physical workspace modifications', 'remote work']",fully remote
+453,mobility,3,phd,"['flexible schedule', 'remote work']",fully remote
+454,vision,10,associate,"['remote work', 'flexible schedule']",hybrid
+455,psychiatric,1,high school,"['flexible schedule', 'noise reduction']",fully remote
+456,mobility,19,bachelor,['physical workspace modifications'],hybrid
+457,psychiatric,10,bachelor,"['noise reduction', 'physical workspace modifications']",in-office
+458,mobility,14,master,"['flexible schedule', 'physical workspace modifications']",hybrid
+459,mobility,6,bachelor,['remote work'],hybrid
+460,chronic health,18,phd,"['noise reduction', 'flexible schedule']",fully remote
+461,cognitive,7,bachelor,"['physical workspace modifications', 'assistive technology', 'noise reduction', 'flexible schedule', 'modified training materials']",fully remote
+462,vision,19,master,"['remote work', 'flexible schedule']",in-office
+463,mobility,5,phd,"['remote work', 'physical workspace modifications']",fully remote
+464,cognitive,5,phd,"['physical workspace modifications', 'flexible schedule', 'assistive technology', 'noise reduction']",hybrid
+465,hearing,17,master,"['physical workspace modifications', 'assistive technology', 'noise reduction', 'modified training materials']",in-office
+466,mobility,18,bachelor,"['remote work', 'flexible schedule']",fully remote
+467,chronic health,13,master,"['flexible schedule', 'physical workspace modifications', 'noise reduction']",hybrid
+468,mobility,5,phd,"['flexible schedule', 'remote work']",in-office
+469,cognitive,15,master,"['physical workspace modifications', 'assistive technology', 'flexible schedule', 'modified training materials', 'noise reduction']",hybrid
+470,mobility,13,phd,"['flexible schedule', 'remote work']",in-office
+471,cognitive,12,phd,"['flexible schedule', 'modified training materials']",in-office
+472,cognitive,0,bachelor,"['modified training materials', 'noise reduction', 'physical workspace modifications', 'assistive technology']",in-office
+473,cognitive,16,high school,"['noise reduction', 'flexible schedule', 'assistive technology']",fully remote
+474,cognitive,1,bachelor,"['assistive technology', 'flexible schedule', 'noise reduction']",fully remote
+475,chronic health,8,phd,['noise reduction'],in-office
+476,mobility,9,bachelor,['flexible schedule'],in-office
+477,psychiatric,11,associate,['physical workspace modifications'],in-office
+478,vision,1,bachelor,['physical workspace modifications'],fully remote
+479,vision,6,associate,"['flexible schedule', 'remote work']",in-office
+480,mobility,20,associate,"['flexible schedule', 'physical workspace modifications']",hybrid
+481,cognitive,15,bachelor,"['physical workspace modifications', 'modified training materials', 'noise reduction', 'flexible schedule', 'assistive technology']",fully remote
+482,hearing,0,bachelor,"['physical workspace modifications', 'assistive technology', 'noise reduction']",fully remote
+483,hearing,17,high school,"['noise reduction', 'interpreter services', 'modified training materials']",fully remote
+484,cognitive,19,phd,"['modified training materials', 'noise reduction', 'assistive technology', 'physical workspace modifications', 'flexible schedule']",fully remote
+485,mobility,3,high school,['flexible schedule'],in-office
+486,mobility,3,phd,['flexible schedule'],hybrid
+487,cognitive,6,high school,"['flexible schedule', 'assistive technology', 'physical workspace modifications', 'modified training materials', 'noise reduction']",hybrid
+488,mobility,4,associate,"['remote work', 'physical workspace modifications']",hybrid
+489,mobility,13,phd,"['physical workspace modifications', 'flexible schedule']",in-office
+490,chronic health,13,phd,"['remote work', 'physical workspace modifications', 'noise reduction']",in-office
+491,mobility,1,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+492,cognitive,17,associate,"['flexible schedule', 'assistive technology', 'modified training materials']",hybrid
+493,psychiatric,12,phd,"['flexible schedule', 'physical workspace modifications']",in-office
+494,mobility,1,high school,"['physical workspace modifications', 'remote work']",hybrid
+495,mobility,2,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+496,chronic health,17,associate,"['physical workspace modifications', 'flexible schedule', 'remote work']",in-office
+497,vision,14,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+498,mobility,18,associate,['remote work'],fully remote
+499,hearing,13,high school,"['interpreter services', 'modified training materials', 'noise reduction', 'physical workspace modifications']",in-office
+500,hearing,3,master,['noise reduction'],hybrid
+501,vision,12,associate,['flexible schedule'],hybrid
+502,mobility,5,bachelor,"['physical workspace modifications', 'remote work']",fully remote
+503,chronic health,13,associate,"['physical workspace modifications', 'remote work']",in-office
+504,mobility,13,bachelor,"['remote work', 'physical workspace modifications']",fully remote
+505,vision,11,master,"['physical workspace modifications', 'remote work']",fully remote
+506,cognitive,11,phd,"['flexible schedule', 'physical workspace modifications']",fully remote
+507,hearing,1,high school,['noise reduction'],in-office
+508,mobility,14,phd,"['physical workspace modifications', 'remote work']",fully remote
+509,mobility,20,bachelor,"['physical workspace modifications', 'remote work']",fully remote
+510,cognitive,11,master,"['noise reduction', 'modified training materials', 'flexible schedule']",in-office
+511,mobility,16,master,['physical workspace modifications'],hybrid
+512,vision,15,high school,['remote work'],in-office
+513,mobility,13,master,"['flexible schedule', 'physical workspace modifications']",in-office
+514,hearing,6,master,"['interpreter services', 'noise reduction']",in-office
+515,hearing,17,associate,"['noise reduction', 'assistive technology', 'physical workspace modifications', 'interpreter services']",hybrid
+516,vision,19,associate,['physical workspace modifications'],in-office
+517,vision,12,phd,"['remote work', 'flexible schedule']",hybrid
+518,psychiatric,20,high school,"['physical workspace modifications', 'noise reduction']",hybrid
+519,cognitive,13,associate,"['noise reduction', 'physical workspace modifications', 'modified training materials', 'flexible schedule', 'assistive technology']",in-office
+520,mobility,17,high school,"['remote work', 'flexible schedule']",in-office
+521,mobility,6,bachelor,['remote work'],fully remote
+522,vision,10,bachelor,"['remote work', 'physical workspace modifications']",in-office
+523,vision,11,associate,"['physical workspace modifications', 'flexible schedule']",fully remote
+524,mobility,7,high school,['flexible schedule'],in-office
+525,chronic health,19,high school,['flexible schedule'],hybrid
+526,cognitive,4,master,"['physical workspace modifications', 'modified training materials', 'flexible schedule', 'noise reduction']",fully remote
+527,cognitive,3,phd,"['physical workspace modifications', 'modified training materials']",hybrid
+528,hearing,7,master,"['modified training materials', 'assistive technology', 'interpreter services']",fully remote
+529,mobility,2,associate,"['flexible schedule', 'physical workspace modifications']",hybrid
+530,hearing,5,high school,"['interpreter services', 'physical workspace modifications']",hybrid
+531,hearing,10,phd,['modified training materials'],in-office
+532,mobility,16,bachelor,['flexible schedule'],fully remote
+533,mobility,20,master,"['physical workspace modifications', 'remote work']",fully remote
+534,cognitive,8,associate,"['noise reduction', 'physical workspace modifications', 'assistive technology']",hybrid
+535,vision,4,phd,['physical workspace modifications'],hybrid
+536,chronic health,0,bachelor,"['flexible schedule', 'physical workspace modifications']",in-office
+537,mobility,3,associate,['remote work'],fully remote
+538,chronic health,7,bachelor,['flexible schedule'],hybrid
+539,chronic health,5,associate,"['flexible schedule', 'physical workspace modifications', 'remote work']",in-office
+540,vision,9,associate,"['physical workspace modifications', 'flexible schedule']",hybrid
+541,mobility,5,associate,"['remote work', 'flexible schedule']",in-office
+542,vision,17,phd,"['physical workspace modifications', 'flexible schedule']",fully remote
+543,psychiatric,11,bachelor,"['flexible schedule', 'noise reduction']",hybrid
+544,mobility,0,high school,"['flexible schedule', 'physical workspace modifications']",fully remote
+545,vision,19,master,"['flexible schedule', 'remote work']",hybrid
+546,mobility,16,phd,['physical workspace modifications'],in-office
+547,psychiatric,4,high school,['noise reduction'],in-office
+548,cognitive,19,associate,"['assistive technology', 'physical workspace modifications', 'noise reduction', 'flexible schedule']",in-office
+549,chronic health,14,phd,['flexible schedule'],in-office
+550,mobility,13,associate,['remote work'],hybrid
+551,mobility,8,phd,['flexible schedule'],hybrid
+552,chronic health,6,associate,"['physical workspace modifications', 'noise reduction']",fully remote
+553,mobility,16,bachelor,"['flexible schedule', 'remote work']",hybrid
+554,psychiatric,5,associate,"['flexible schedule', 'noise reduction']",hybrid
+555,vision,15,bachelor,['physical workspace modifications'],fully remote
+556,psychiatric,18,high school,['physical workspace modifications'],in-office
+557,vision,18,bachelor,"['flexible schedule', 'physical workspace modifications']",in-office
+558,chronic health,10,phd,"['physical workspace modifications', 'remote work', 'noise reduction']",in-office
+559,vision,5,bachelor,"['remote work', 'flexible schedule']",fully remote
+560,hearing,3,phd,"['physical workspace modifications', 'assistive technology', 'modified training materials']",hybrid
+561,mobility,18,bachelor,"['remote work', 'flexible schedule']",hybrid
+562,psychiatric,19,associate,['physical workspace modifications'],hybrid
+563,cognitive,15,master,"['flexible schedule', 'modified training materials', 'physical workspace modifications', 'noise reduction']",fully remote
+564,mobility,9,associate,"['physical workspace modifications', 'remote work']",in-office
+565,mobility,19,bachelor,['flexible schedule'],in-office
+566,vision,14,bachelor,['flexible schedule'],fully remote
+567,mobility,6,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+568,hearing,6,bachelor,"['assistive technology', 'interpreter services', 'modified training materials', 'physical workspace modifications']",in-office
+569,mobility,3,phd,['remote work'],in-office
+570,cognitive,1,master,"['physical workspace modifications', 'noise reduction', 'flexible schedule']",fully remote
+571,hearing,10,master,"['physical workspace modifications', 'noise reduction', 'interpreter services', 'modified training materials']",in-office
+572,cognitive,13,master,"['physical workspace modifications', 'modified training materials', 'assistive technology', 'noise reduction']",hybrid
+573,cognitive,15,phd,"['modified training materials', 'noise reduction', 'assistive technology']",in-office
+574,cognitive,6,associate,"['noise reduction', 'physical workspace modifications', 'modified training materials', 'flexible schedule']",fully remote
+575,mobility,10,high school,['flexible schedule'],hybrid
+576,hearing,8,associate,"['assistive technology', 'physical workspace modifications', 'interpreter services']",hybrid
+577,psychiatric,5,master,"['noise reduction', 'physical workspace modifications']",hybrid
+578,mobility,19,phd,['remote work'],fully remote
+579,psychiatric,12,phd,"['flexible schedule', 'noise reduction']",fully remote
+580,chronic health,3,associate,"['physical workspace modifications', 'remote work', 'noise reduction']",hybrid
+581,mobility,9,high school,['remote work'],hybrid
+582,cognitive,1,phd,"['assistive technology', 'flexible schedule']",in-office
+583,cognitive,4,associate,"['flexible schedule', 'modified training materials', 'noise reduction']",hybrid
+584,hearing,11,associate,"['interpreter services', 'modified training materials', 'assistive technology']",fully remote
+585,psychiatric,12,phd,['flexible schedule'],hybrid
+586,mobility,20,bachelor,"['physical workspace modifications', 'remote work']",in-office
+587,hearing,5,master,['noise reduction'],hybrid
+588,chronic health,11,high school,"['noise reduction', 'flexible schedule']",hybrid
+589,mobility,2,phd,['physical workspace modifications'],hybrid
+590,psychiatric,1,bachelor,['physical workspace modifications'],in-office
+591,hearing,10,phd,"['assistive technology', 'physical workspace modifications', 'modified training materials', 'noise reduction']",hybrid
+592,psychiatric,3,associate,['flexible schedule'],hybrid
+593,vision,19,associate,"['remote work', 'flexible schedule']",in-office
+594,hearing,20,phd,"['modified training materials', 'interpreter services']",hybrid
+595,chronic health,12,bachelor,['noise reduction'],fully remote
+596,mobility,13,bachelor,"['remote work', 'flexible schedule']",hybrid
+597,cognitive,0,associate,"['flexible schedule', 'noise reduction', 'assistive technology', 'physical workspace modifications', 'modified training materials']",in-office
+598,psychiatric,14,master,['physical workspace modifications'],in-office
+599,mobility,18,high school,['remote work'],in-office
+600,hearing,20,phd,"['noise reduction', 'modified training materials', 'interpreter services', 'physical workspace modifications']",in-office
+601,mobility,17,high school,['flexible schedule'],fully remote
+602,chronic health,10,bachelor,"['noise reduction', 'flexible schedule', 'physical workspace modifications']",hybrid
+603,vision,16,master,"['physical workspace modifications', 'flexible schedule']",fully remote
+604,vision,15,bachelor,"['flexible schedule', 'remote work']",fully remote
+605,hearing,10,bachelor,"['noise reduction', 'modified training materials', 'physical workspace modifications', 'interpreter services']",in-office
+606,vision,0,master,['physical workspace modifications'],in-office
+607,chronic health,7,bachelor,"['flexible schedule', 'noise reduction']",fully remote
+608,mobility,20,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+609,mobility,19,bachelor,"['remote work', 'physical workspace modifications']",hybrid
+610,mobility,17,bachelor,"['physical workspace modifications', 'flexible schedule']",fully remote
+611,psychiatric,5,associate,"['flexible schedule', 'noise reduction']",fully remote
+612,vision,18,bachelor,['flexible schedule'],hybrid
+613,mobility,4,high school,"['physical workspace modifications', 'flexible schedule']",fully remote
+614,vision,14,phd,"['remote work', 'flexible schedule']",in-office
+615,psychiatric,17,high school,['flexible schedule'],fully remote
+616,vision,5,associate,['remote work'],hybrid
+617,psychiatric,11,high school,"['flexible schedule', 'noise reduction']",hybrid
+618,cognitive,20,master,"['flexible schedule', 'modified training materials', 'physical workspace modifications']",in-office
+619,vision,17,bachelor,"['physical workspace modifications', 'flexible schedule']",hybrid
+620,psychiatric,5,associate,"['physical workspace modifications', 'noise reduction']",fully remote
+621,mobility,7,phd,"['remote work', 'physical workspace modifications']",fully remote
+622,chronic health,13,associate,['remote work'],hybrid
+623,hearing,17,bachelor,"['physical workspace modifications', 'noise reduction', 'interpreter services', 'assistive technology']",in-office
+624,psychiatric,2,high school,['physical workspace modifications'],fully remote
+625,mobility,3,associate,['flexible schedule'],fully remote
+626,mobility,2,high school,"['remote work', 'physical workspace modifications']",hybrid
+627,cognitive,2,master,"['noise reduction', 'flexible schedule']",fully remote
+628,mobility,6,associate,['remote work'],fully remote
+629,mobility,10,associate,"['physical workspace modifications', 'remote work']",hybrid
+630,hearing,14,phd,"['interpreter services', 'noise reduction', 'assistive technology']",hybrid
+631,chronic health,18,bachelor,['physical workspace modifications'],hybrid
+632,chronic health,20,high school,"['noise reduction', 'remote work']",in-office
+633,vision,8,associate,['flexible schedule'],fully remote
+634,mobility,16,bachelor,"['remote work', 'flexible schedule']",in-office
+635,chronic health,0,high school,"['noise reduction', 'remote work']",hybrid
+636,cognitive,7,phd,"['flexible schedule', 'physical workspace modifications', 'noise reduction', 'assistive technology']",hybrid
+637,hearing,14,phd,['interpreter services'],in-office
+638,psychiatric,11,phd,['noise reduction'],hybrid
+639,mobility,7,associate,"['remote work', 'physical workspace modifications']",fully remote
+640,cognitive,10,phd,"['flexible schedule', 'modified training materials', 'assistive technology']",in-office
+641,chronic health,10,master,"['remote work', 'physical workspace modifications', 'flexible schedule']",fully remote
+642,psychiatric,6,phd,['physical workspace modifications'],hybrid
+643,mobility,20,associate,['flexible schedule'],in-office
+644,mobility,16,high school,['physical workspace modifications'],hybrid
+645,hearing,20,master,['interpreter services'],in-office
+646,cognitive,18,high school,"['physical workspace modifications', 'modified training materials', 'flexible schedule', 'noise reduction']",in-office
+647,vision,16,associate,['flexible schedule'],hybrid
+648,psychiatric,14,high school,"['physical workspace modifications', 'flexible schedule']",fully remote
+649,mobility,9,phd,"['flexible schedule', 'physical workspace modifications']",hybrid
+650,chronic health,11,master,"['physical workspace modifications', 'noise reduction']",hybrid
+651,chronic health,6,phd,['noise reduction'],in-office
+652,vision,6,high school,"['flexible schedule', 'physical workspace modifications']",fully remote
+653,psychiatric,8,bachelor,['noise reduction'],in-office
+654,cognitive,3,high school,"['noise reduction', 'assistive technology']",hybrid
+655,chronic health,2,bachelor,['physical workspace modifications'],hybrid
+656,vision,12,master,['physical workspace modifications'],fully remote
+657,vision,4,associate,['flexible schedule'],hybrid
+658,cognitive,1,phd,"['assistive technology', 'flexible schedule', 'modified training materials', 'noise reduction']",fully remote
+659,mobility,10,associate,['physical workspace modifications'],in-office
+660,hearing,3,associate,"['interpreter services', 'noise reduction']",in-office
+661,vision,13,high school,"['remote work', 'flexible schedule']",in-office
+662,mobility,14,high school,"['remote work', 'flexible schedule']",in-office
+663,hearing,10,high school,"['modified training materials', 'assistive technology', 'interpreter services']",hybrid
+664,psychiatric,16,master,['physical workspace modifications'],hybrid
+665,hearing,11,associate,['interpreter services'],in-office
+666,chronic health,3,bachelor,"['physical workspace modifications', 'noise reduction']",in-office
+667,hearing,17,associate,['physical workspace modifications'],hybrid
+668,mobility,13,associate,"['physical workspace modifications', 'remote work']",in-office
+669,mobility,1,master,"['physical workspace modifications', 'remote work']",fully remote
+670,chronic health,7,master,['noise reduction'],hybrid
+671,mobility,15,bachelor,"['remote work', 'flexible schedule']",hybrid
+672,cognitive,4,high school,"['physical workspace modifications', 'noise reduction']",hybrid
+673,cognitive,6,bachelor,"['flexible schedule', 'physical workspace modifications', 'modified training materials', 'noise reduction', 'assistive technology']",fully remote
+674,mobility,18,master,['physical workspace modifications'],hybrid
+675,vision,7,bachelor,"['remote work', 'physical workspace modifications']",in-office
+676,cognitive,1,associate,"['flexible schedule', 'assistive technology', 'modified training materials', 'physical workspace modifications', 'noise reduction']",fully remote
+677,hearing,14,associate,"['modified training materials', 'assistive technology', 'interpreter services']",in-office
+678,vision,7,phd,['remote work'],fully remote
+679,mobility,17,phd,"['flexible schedule', 'remote work']",in-office
+680,mobility,18,high school,['physical workspace modifications'],fully remote
+681,mobility,20,phd,['physical workspace modifications'],hybrid
+682,mobility,13,associate,"['remote work', 'flexible schedule']",fully remote
+683,chronic health,7,associate,"['flexible schedule', 'remote work', 'physical workspace modifications']",fully remote
+684,psychiatric,18,phd,['flexible schedule'],hybrid
+685,psychiatric,13,associate,"['physical workspace modifications', 'flexible schedule']",hybrid
+686,chronic health,3,phd,['physical workspace modifications'],hybrid
+687,mobility,9,phd,"['remote work', 'physical workspace modifications']",in-office
+688,vision,5,bachelor,['flexible schedule'],fully remote
+689,psychiatric,1,associate,"['physical workspace modifications', 'noise reduction']",in-office
+690,psychiatric,5,associate,"['physical workspace modifications', 'flexible schedule']",fully remote
+691,cognitive,3,master,"['noise reduction', 'physical workspace modifications', 'flexible schedule', 'assistive technology', 'modified training materials']",hybrid
+692,mobility,4,bachelor,"['remote work', 'flexible schedule']",in-office
+693,psychiatric,10,master,['flexible schedule'],fully remote
+694,cognitive,16,associate,"['noise reduction', 'flexible schedule', 'modified training materials', 'assistive technology']",in-office
+695,vision,13,master,"['remote work', 'physical workspace modifications']",hybrid
+696,vision,14,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+697,vision,5,associate,['remote work'],fully remote
+698,cognitive,17,bachelor,"['modified training materials', 'physical workspace modifications', 'noise reduction', 'flexible schedule']",in-office
+699,mobility,18,bachelor,['flexible schedule'],in-office
+700,mobility,8,phd,['physical workspace modifications'],fully remote
+701,vision,19,bachelor,"['physical workspace modifications', 'flexible schedule']",in-office
+702,cognitive,17,master,"['flexible schedule', 'assistive technology', 'modified training materials']",fully remote
+703,psychiatric,19,high school,['noise reduction'],in-office
+704,mobility,13,phd,"['remote work', 'physical workspace modifications']",fully remote
+705,hearing,20,high school,"['physical workspace modifications', 'modified training materials']",hybrid
+706,chronic health,9,bachelor,['physical workspace modifications'],fully remote
+707,vision,16,bachelor,"['physical workspace modifications', 'remote work']",in-office
+708,mobility,11,high school,['physical workspace modifications'],fully remote
+709,cognitive,3,high school,"['noise reduction', 'physical workspace modifications', 'modified training materials', 'assistive technology', 'flexible schedule']",in-office
+710,cognitive,9,high school,"['assistive technology', 'flexible schedule', 'modified training materials', 'physical workspace modifications', 'noise reduction']",in-office
+711,mobility,16,associate,"['flexible schedule', 'physical workspace modifications']",fully remote
+712,cognitive,7,associate,"['physical workspace modifications', 'assistive technology', 'noise reduction', 'modified training materials']",in-office
+713,mobility,15,master,"['physical workspace modifications', 'flexible schedule']",in-office
+714,hearing,18,associate,"['noise reduction', 'assistive technology']",fully remote
+715,mobility,11,high school,"['physical workspace modifications', 'flexible schedule']",in-office
+716,mobility,17,high school,"['flexible schedule', 'remote work']",fully remote
+717,cognitive,12,phd,"['assistive technology', 'modified training materials', 'noise reduction', 'physical workspace modifications']",hybrid
+718,mobility,4,bachelor,['physical workspace modifications'],hybrid
+719,mobility,12,master,['flexible schedule'],fully remote
+720,psychiatric,19,phd,['physical workspace modifications'],hybrid
+721,hearing,10,master,"['interpreter services', 'physical workspace modifications', 'modified training materials']",hybrid
+722,hearing,1,associate,"['noise reduction', 'interpreter services']",hybrid
+723,hearing,12,bachelor,"['interpreter services', 'physical workspace modifications']",in-office
+724,mobility,12,phd,['flexible schedule'],hybrid
+725,hearing,1,bachelor,"['interpreter services', 'noise reduction', 'modified training materials']",hybrid
+726,mobility,0,bachelor,"['remote work', 'physical workspace modifications']",hybrid
+727,mobility,17,associate,"['physical workspace modifications', 'remote work']",in-office
+728,vision,5,high school,"['remote work', 'flexible schedule']",hybrid
+729,hearing,12,associate,['noise reduction'],hybrid
+730,chronic health,5,master,"['flexible schedule', 'remote work', 'noise reduction']",in-office
+731,mobility,10,bachelor,"['physical workspace modifications', 'remote work']",hybrid
+732,mobility,8,bachelor,['flexible schedule'],hybrid
+733,mobility,7,phd,"['flexible schedule', 'physical workspace modifications']",in-office
+734,cognitive,11,phd,"['physical workspace modifications', 'noise reduction', 'assistive technology', 'flexible schedule']",fully remote
+735,hearing,14,bachelor,['modified training materials'],hybrid
+736,cognitive,2,high school,"['modified training materials', 'noise reduction', 'physical workspace modifications']",in-office
+737,mobility,5,associate,['remote work'],in-office
+738,mobility,18,high school,['physical workspace modifications'],hybrid
+739,vision,19,high school,"['physical workspace modifications', 'remote work']",in-office
+740,mobility,10,high school,"['remote work', 'flexible schedule']",hybrid
+741,chronic health,2,high school,['noise reduction'],hybrid
+742,cognitive,19,associate,"['modified training materials', 'flexible schedule', 'noise reduction', 'physical workspace modifications']",in-office
+743,mobility,16,high school,"['remote work', 'flexible schedule']",fully remote
+744,cognitive,8,bachelor,"['assistive technology', 'flexible schedule', 'modified training materials', 'noise reduction']",hybrid
+745,vision,11,master,"['remote work', 'flexible schedule']",hybrid
+746,mobility,9,bachelor,['flexible schedule'],fully remote
+747,hearing,15,phd,"['noise reduction', 'physical workspace modifications']",fully remote
+748,hearing,18,master,"['assistive technology', 'physical workspace modifications', 'noise reduction']",hybrid
+749,chronic health,13,high school,"['flexible schedule', 'noise reduction']",fully remote
+750,chronic health,14,associate,['physical workspace modifications'],hybrid
+751,cognitive,16,master,"['assistive technology', 'flexible schedule', 'noise reduction']",hybrid
+752,mobility,13,phd,['flexible schedule'],fully remote
+753,cognitive,1,master,"['flexible schedule', 'noise reduction']",in-office
+754,psychiatric,12,associate,"['noise reduction', 'physical workspace modifications']",hybrid
+755,chronic health,10,associate,"['noise reduction', 'physical workspace modifications']",fully remote
+756,chronic health,12,phd,['remote work'],fully remote
+757,mobility,3,bachelor,['remote work'],hybrid
+758,hearing,5,associate,['interpreter services'],hybrid
+759,mobility,4,phd,"['remote work', 'flexible schedule']",hybrid
+760,vision,12,master,"['flexible schedule', 'remote work']",hybrid
+761,chronic health,10,high school,"['flexible schedule', 'physical workspace modifications']",hybrid
+762,hearing,0,bachelor,['assistive technology'],fully remote
+763,cognitive,20,phd,"['flexible schedule', 'physical workspace modifications', 'assistive technology', 'modified training materials']",fully remote
+764,hearing,18,associate,"['modified training materials', 'assistive technology']",fully remote
+765,vision,15,master,"['flexible schedule', 'remote work']",in-office
+766,cognitive,9,phd,"['modified training materials', 'assistive technology', 'flexible schedule', 'noise reduction', 'physical workspace modifications']",in-office
+767,cognitive,20,bachelor,"['modified training materials', 'physical workspace modifications', 'assistive technology', 'noise reduction']",hybrid
+768,vision,0,master,"['remote work', 'flexible schedule']",fully remote
+769,cognitive,20,bachelor,"['noise reduction', 'physical workspace modifications']",in-office
+770,vision,12,associate,"['physical workspace modifications', 'flexible schedule']",fully remote
+771,cognitive,16,phd,"['assistive technology', 'modified training materials', 'flexible schedule', 'physical workspace modifications', 'noise reduction']",in-office
+772,mobility,4,master,"['remote work', 'flexible schedule']",fully remote
+773,psychiatric,5,high school,['noise reduction'],in-office
+774,psychiatric,10,master,['noise reduction'],hybrid
+775,hearing,11,high school,"['interpreter services', 'physical workspace modifications', 'modified training materials']",hybrid
+776,cognitive,3,phd,"['noise reduction', 'physical workspace modifications', 'modified training materials']",fully remote
+777,chronic health,13,phd,['physical workspace modifications'],in-office
+778,mobility,4,high school,"['flexible schedule', 'remote work']",fully remote
+779,cognitive,6,phd,"['noise reduction', 'modified training materials', 'assistive technology']",in-office
+780,mobility,14,bachelor,['remote work'],fully remote
+781,mobility,0,associate,['flexible schedule'],hybrid
+782,cognitive,6,master,"['flexible schedule', 'assistive technology', 'modified training materials', 'physical workspace modifications', 'noise reduction']",fully remote
+783,mobility,6,high school,['physical workspace modifications'],hybrid
+784,mobility,2,phd,['physical workspace modifications'],fully remote
+785,mobility,17,master,"['physical workspace modifications', 'flexible schedule']",in-office
+786,hearing,19,master,"['physical workspace modifications', 'noise reduction', 'assistive technology', 'modified training materials']",hybrid
+787,mobility,9,phd,"['flexible schedule', 'physical workspace modifications']",in-office
+788,vision,14,associate,['physical workspace modifications'],in-office
+789,cognitive,15,high school,"['assistive technology', 'flexible schedule']",fully remote
+790,mobility,18,high school,"['physical workspace modifications', 'flexible schedule']",in-office
+791,mobility,2,high school,"['remote work', 'flexible schedule']",fully remote
+792,cognitive,11,high school,"['assistive technology', 'physical workspace modifications', 'noise reduction', 'flexible schedule', 'modified training materials']",hybrid
+793,psychiatric,16,associate,"['flexible schedule', 'physical workspace modifications']",hybrid
+794,mobility,10,master,"['remote work', 'flexible schedule']",hybrid
+795,hearing,11,high school,"['interpreter services', 'assistive technology']",in-office
+796,mobility,15,bachelor,['remote work'],hybrid
+797,mobility,6,high school,"['flexible schedule', 'remote work']",hybrid
+798,vision,2,phd,"['remote work', 'flexible schedule']",hybrid
+799,cognitive,11,phd,"['flexible schedule', 'modified training materials', 'assistive technology', 'noise reduction', 'physical workspace modifications']",hybrid
+800,chronic health,20,high school,"['remote work', 'physical workspace modifications', 'noise reduction']",hybrid
+801,mobility,2,bachelor,['flexible schedule'],in-office
+802,cognitive,3,bachelor,"['flexible schedule', 'assistive technology', 'noise reduction', 'physical workspace modifications']",in-office
+803,vision,19,high school,"['remote work', 'flexible schedule']",hybrid
+804,cognitive,13,bachelor,"['physical workspace modifications', 'modified training materials']",fully remote
+805,cognitive,19,associate,"['noise reduction', 'assistive technology', 'modified training materials']",hybrid
+806,hearing,8,phd,['interpreter services'],fully remote
+807,hearing,0,high school,"['interpreter services', 'modified training materials', 'noise reduction']",hybrid
+808,hearing,5,high school,"['interpreter services', 'noise reduction', 'modified training materials', 'assistive technology']",fully remote
+809,vision,20,bachelor,"['remote work', 'physical workspace modifications']",in-office
+810,cognitive,16,master,"['modified training materials', 'physical workspace modifications', 'noise reduction']",fully remote
+811,chronic health,1,high school,"['remote work', 'flexible schedule', 'noise reduction']",hybrid
+812,vision,0,master,['physical workspace modifications'],hybrid
+813,mobility,9,bachelor,['remote work'],hybrid
+814,chronic health,14,master,"['remote work', 'physical workspace modifications', 'flexible schedule']",hybrid
+815,cognitive,19,bachelor,"['modified training materials', 'noise reduction']",hybrid
+816,mobility,0,bachelor,"['flexible schedule', 'physical workspace modifications']",in-office
+817,mobility,15,high school,['physical workspace modifications'],hybrid
+818,hearing,1,bachelor,"['noise reduction', 'assistive technology', 'interpreter services', 'physical workspace modifications']",fully remote
+819,mobility,9,high school,"['physical workspace modifications', 'flexible schedule']",in-office
+820,mobility,16,bachelor,"['remote work', 'physical workspace modifications']",fully remote
+821,vision,14,phd,"['remote work', 'physical workspace modifications']",in-office
+822,hearing,7,master,"['noise reduction', 'interpreter services', 'physical workspace modifications']",hybrid
+823,cognitive,10,bachelor,"['assistive technology', 'modified training materials', 'physical workspace modifications']",in-office
+824,mobility,6,high school,"['flexible schedule', 'physical workspace modifications']",hybrid
+825,vision,4,master,['remote work'],hybrid
+826,mobility,12,high school,"['flexible schedule', 'physical workspace modifications']",in-office
+827,psychiatric,5,associate,"['noise reduction', 'flexible schedule']",fully remote
+828,cognitive,12,master,"['physical workspace modifications', 'modified training materials', 'assistive technology', 'flexible schedule', 'noise reduction']",fully remote
+829,cognitive,5,bachelor,"['flexible schedule', 'assistive technology', 'modified training materials', 'physical workspace modifications', 'noise reduction']",hybrid
+830,vision,3,bachelor,"['physical workspace modifications', 'flexible schedule']",in-office
+831,cognitive,11,bachelor,"['noise reduction', 'flexible schedule', 'assistive technology', 'physical workspace modifications']",in-office
+832,mobility,16,associate,['physical workspace modifications'],fully remote
+833,mobility,6,associate,"['flexible schedule', 'remote work']",in-office
+834,hearing,8,high school,"['interpreter services', 'modified training materials', 'assistive technology']",fully remote
+835,mobility,20,high school,['physical workspace modifications'],in-office
+836,psychiatric,9,bachelor,['noise reduction'],fully remote
+837,psychiatric,9,phd,"['flexible schedule', 'noise reduction']",in-office
+838,cognitive,11,associate,"['flexible schedule', 'assistive technology']",in-office
+839,hearing,9,associate,"['physical workspace modifications', 'modified training materials', 'assistive technology', 'noise reduction']",in-office
+840,chronic health,17,master,"['remote work', 'physical workspace modifications', 'noise reduction']",hybrid
+841,chronic health,13,associate,['flexible schedule'],fully remote
+842,vision,18,high school,"['flexible schedule', 'remote work']",in-office
+843,mobility,7,master,['remote work'],hybrid
+844,vision,17,bachelor,"['physical workspace modifications', 'remote work']",in-office
+845,vision,19,phd,"['remote work', 'flexible schedule']",fully remote
+846,mobility,8,phd,['remote work'],fully remote
+847,mobility,2,high school,"['flexible schedule', 'remote work']",in-office
+848,cognitive,17,master,"['assistive technology', 'flexible schedule', 'modified training materials', 'physical workspace modifications', 'noise reduction']",hybrid
+849,mobility,18,associate,"['remote work', 'flexible schedule']",in-office
+850,mobility,14,associate,['physical workspace modifications'],fully remote
+851,cognitive,14,phd,"['physical workspace modifications', 'noise reduction', 'modified training materials', 'flexible schedule', 'assistive technology']",in-office
+852,mobility,20,high school,['flexible schedule'],fully remote
+853,hearing,19,bachelor,"['interpreter services', 'noise reduction', 'physical workspace modifications', 'assistive technology']",hybrid
+854,hearing,16,high school,"['physical workspace modifications', 'noise reduction', 'modified training materials']",in-office
+855,mobility,6,high school,['flexible schedule'],in-office
+856,mobility,5,high school,"['flexible schedule', 'remote work']",hybrid
+857,psychiatric,11,bachelor,"['flexible schedule', 'noise reduction']",hybrid
+858,mobility,17,master,"['physical workspace modifications', 'remote work']",in-office
+859,cognitive,6,master,"['physical workspace modifications', 'modified training materials']",fully remote
+860,hearing,0,associate,"['modified training materials', 'physical workspace modifications', 'noise reduction']",fully remote
+861,mobility,16,bachelor,"['remote work', 'flexible schedule']",hybrid
+862,mobility,6,associate,['remote work'],hybrid
+863,cognitive,7,associate,"['flexible schedule', 'assistive technology', 'noise reduction', 'modified training materials']",fully remote
+864,hearing,14,phd,"['noise reduction', 'interpreter services', 'assistive technology']",in-office
+865,hearing,11,phd,"['modified training materials', 'assistive technology', 'interpreter services']",fully remote
+866,psychiatric,18,high school,['physical workspace modifications'],fully remote
+867,vision,1,high school,['flexible schedule'],hybrid
+868,cognitive,11,associate,"['assistive technology', 'modified training materials', 'flexible schedule']",in-office
+869,psychiatric,12,bachelor,['noise reduction'],hybrid
+870,chronic health,17,master,"['physical workspace modifications', 'flexible schedule', 'noise reduction']",fully remote
+871,mobility,18,master,['physical workspace modifications'],fully remote
+872,psychiatric,19,bachelor,['physical workspace modifications'],fully remote
+873,psychiatric,1,phd,"['noise reduction', 'physical workspace modifications']",fully remote
+874,chronic health,18,high school,"['remote work', 'physical workspace modifications']",fully remote
+875,psychiatric,5,associate,"['noise reduction', 'flexible schedule']",in-office
+876,vision,16,master,['flexible schedule'],fully remote
+877,cognitive,11,bachelor,"['physical workspace modifications', 'assistive technology', 'flexible schedule']",fully remote
+878,cognitive,19,high school,"['flexible schedule', 'physical workspace modifications', 'modified training materials', 'assistive technology']",fully remote
+879,hearing,7,phd,"['physical workspace modifications', 'interpreter services', 'modified training materials']",hybrid
+880,hearing,16,bachelor,['noise reduction'],fully remote
+881,mobility,19,phd,['flexible schedule'],fully remote
+882,cognitive,0,master,"['flexible schedule', 'noise reduction']",in-office
+883,mobility,8,associate,"['physical workspace modifications', 'flexible schedule']",hybrid
+884,psychiatric,15,phd,"['flexible schedule', 'physical workspace modifications']",fully remote
+885,cognitive,20,bachelor,"['flexible schedule', 'physical workspace modifications', 'modified training materials', 'assistive technology']",hybrid
+886,cognitive,14,bachelor,"['modified training materials', 'noise reduction', 'assistive technology', 'physical workspace modifications']",hybrid
+887,hearing,19,phd,"['noise reduction', 'interpreter services']",fully remote
+888,mobility,20,master,"['remote work', 'physical workspace modifications']",hybrid
+889,mobility,6,phd,"['remote work', 'physical workspace modifications']",fully remote
+890,vision,1,high school,['remote work'],fully remote
+891,mobility,2,associate,"['physical workspace modifications', 'flexible schedule']",fully remote
+892,cognitive,17,associate,"['noise reduction', 'assistive technology']",in-office
+893,cognitive,3,bachelor,"['flexible schedule', 'physical workspace modifications', 'noise reduction', 'modified training materials']",fully remote
+894,cognitive,6,high school,"['noise reduction', 'flexible schedule']",hybrid
+895,hearing,7,master,"['physical workspace modifications', 'interpreter services']",hybrid
+896,psychiatric,18,phd,['noise reduction'],fully remote
+897,mobility,9,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+898,cognitive,19,high school,"['flexible schedule', 'assistive technology']",in-office
+899,cognitive,13,high school,"['flexible schedule', 'assistive technology', 'noise reduction', 'modified training materials', 'physical workspace modifications']",hybrid
+900,hearing,8,phd,"['interpreter services', 'physical workspace modifications', 'modified training materials', 'noise reduction']",hybrid
+901,mobility,10,phd,"['flexible schedule', 'remote work']",in-office
+902,mobility,13,phd,"['flexible schedule', 'remote work']",in-office
+903,cognitive,5,master,"['flexible schedule', 'physical workspace modifications', 'modified training materials', 'noise reduction', 'assistive technology']",fully remote
+904,cognitive,1,master,"['noise reduction', 'modified training materials', 'flexible schedule', 'assistive technology', 'physical workspace modifications']",hybrid
+905,psychiatric,11,high school,"['physical workspace modifications', 'noise reduction']",hybrid
+906,cognitive,15,associate,"['assistive technology', 'physical workspace modifications', 'flexible schedule']",hybrid
+907,hearing,2,phd,['noise reduction'],fully remote
+908,psychiatric,12,high school,['physical workspace modifications'],fully remote
+909,psychiatric,9,phd,['flexible schedule'],hybrid
+910,chronic health,6,master,"['remote work', 'physical workspace modifications', 'noise reduction']",hybrid
+911,hearing,5,bachelor,"['assistive technology', 'noise reduction', 'interpreter services', 'physical workspace modifications']",hybrid
+912,mobility,16,bachelor,['remote work'],fully remote
+913,cognitive,8,associate,"['modified training materials', 'noise reduction', 'flexible schedule', 'assistive technology', 'physical workspace modifications']",fully remote
+914,cognitive,12,high school,"['noise reduction', 'flexible schedule', 'assistive technology']",hybrid
+915,vision,4,high school,['physical workspace modifications'],in-office
+916,hearing,3,bachelor,"['physical workspace modifications', 'assistive technology', 'modified training materials']",hybrid
+917,hearing,19,associate,"['interpreter services', 'noise reduction', 'modified training materials', 'assistive technology']",in-office
+918,hearing,1,bachelor,['physical workspace modifications'],in-office
+919,vision,13,associate,['physical workspace modifications'],in-office
+920,chronic health,14,associate,['remote work'],hybrid
+921,hearing,14,master,"['assistive technology', 'noise reduction', 'physical workspace modifications']",hybrid
+922,cognitive,18,master,"['noise reduction', 'physical workspace modifications']",hybrid
+923,cognitive,13,phd,"['physical workspace modifications', 'noise reduction', 'flexible schedule', 'modified training materials']",in-office
+924,hearing,7,associate,"['assistive technology', 'interpreter services', 'modified training materials']",hybrid
+925,hearing,14,master,"['modified training materials', 'assistive technology', 'physical workspace modifications']",hybrid
+926,cognitive,6,associate,"['noise reduction', 'assistive technology', 'physical workspace modifications']",fully remote
+927,mobility,7,bachelor,['physical workspace modifications'],hybrid
+928,mobility,20,associate,"['physical workspace modifications', 'remote work']",fully remote
+929,vision,18,phd,"['remote work', 'flexible schedule']",hybrid
+930,hearing,5,phd,"['modified training materials', 'assistive technology']",hybrid
+931,psychiatric,5,phd,"['physical workspace modifications', 'flexible schedule']",hybrid
+932,hearing,7,associate,['assistive technology'],hybrid
+933,chronic health,7,bachelor,['flexible schedule'],hybrid
+934,cognitive,20,bachelor,"['modified training materials', 'assistive technology']",fully remote
+935,psychiatric,10,master,"['noise reduction', 'flexible schedule']",hybrid
+936,psychiatric,8,associate,"['flexible schedule', 'physical workspace modifications']",in-office
+937,mobility,1,phd,"['flexible schedule', 'physical workspace modifications']",in-office
+938,cognitive,17,associate,"['physical workspace modifications', 'noise reduction', 'flexible schedule']",hybrid
+939,mobility,8,phd,['physical workspace modifications'],hybrid
+940,mobility,10,phd,"['remote work', 'flexible schedule']",in-office
+941,chronic health,20,high school,"['noise reduction', 'remote work', 'physical workspace modifications']",hybrid
+942,mobility,5,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+943,cognitive,4,associate,"['physical workspace modifications', 'assistive technology', 'modified training materials']",fully remote
+944,mobility,15,associate,"['physical workspace modifications', 'flexible schedule']",hybrid
+945,cognitive,6,bachelor,"['modified training materials', 'assistive technology', 'physical workspace modifications', 'noise reduction']",hybrid
+946,cognitive,2,associate,"['modified training materials', 'flexible schedule', 'physical workspace modifications']",hybrid
+947,mobility,1,high school,"['remote work', 'flexible schedule']",hybrid
+948,cognitive,13,bachelor,"['noise reduction', 'assistive technology', 'physical workspace modifications', 'flexible schedule']",in-office
+949,cognitive,3,master,"['flexible schedule', 'assistive technology', 'modified training materials', 'noise reduction', 'physical workspace modifications']",hybrid
+950,cognitive,7,master,"['noise reduction', 'physical workspace modifications']",in-office
+951,cognitive,0,bachelor,"['assistive technology', 'flexible schedule', 'physical workspace modifications', 'noise reduction']",fully remote
+952,psychiatric,6,bachelor,"['physical workspace modifications', 'noise reduction']",in-office
+953,psychiatric,16,master,['physical workspace modifications'],in-office
+954,mobility,6,bachelor,"['remote work', 'physical workspace modifications']",in-office
+955,hearing,4,master,"['assistive technology', 'interpreter services']",fully remote
+956,chronic health,20,bachelor,['remote work'],hybrid
+957,cognitive,0,phd,"['physical workspace modifications', 'noise reduction', 'assistive technology', 'modified training materials']",hybrid
+958,hearing,20,phd,"['noise reduction', 'interpreter services']",hybrid
+959,hearing,8,associate,"['modified training materials', 'interpreter services', 'physical workspace modifications']",fully remote
+960,hearing,5,bachelor,"['physical workspace modifications', 'interpreter services', 'modified training materials', 'noise reduction']",fully remote
+961,cognitive,13,bachelor,"['physical workspace modifications', 'modified training materials']",hybrid
+962,vision,20,master,['remote work'],fully remote
+963,mobility,14,bachelor,"['flexible schedule', 'remote work']",fully remote
+964,mobility,16,high school,['remote work'],in-office
+965,cognitive,9,associate,"['flexible schedule', 'modified training materials', 'noise reduction', 'physical workspace modifications']",hybrid
+966,hearing,6,bachelor,"['assistive technology', 'interpreter services']",hybrid
+967,cognitive,5,associate,"['physical workspace modifications', 'flexible schedule', 'noise reduction', 'modified training materials', 'assistive technology']",fully remote
+968,hearing,11,phd,"['interpreter services', 'modified training materials', 'noise reduction']",fully remote
+969,cognitive,9,bachelor,"['assistive technology', 'flexible schedule', 'physical workspace modifications', 'noise reduction']",hybrid
+970,mobility,16,phd,"['flexible schedule', 'physical workspace modifications']",hybrid
+971,vision,17,high school,"['remote work', 'flexible schedule']",hybrid
+972,mobility,8,bachelor,"['physical workspace modifications', 'flexible schedule']",hybrid
+973,vision,20,phd,['flexible schedule'],fully remote
+974,chronic health,13,master,"['flexible schedule', 'remote work']",hybrid
+975,mobility,8,associate,"['flexible schedule', 'physical workspace modifications']",fully remote
+976,chronic health,5,bachelor,['flexible schedule'],hybrid
+977,chronic health,3,high school,"['noise reduction', 'flexible schedule', 'physical workspace modifications']",hybrid
+978,cognitive,6,associate,"['physical workspace modifications', 'modified training materials', 'assistive technology', 'noise reduction', 'flexible schedule']",hybrid
+979,chronic health,1,bachelor,"['noise reduction', 'flexible schedule']",hybrid
+980,hearing,20,master,"['assistive technology', 'interpreter services', 'physical workspace modifications', 'noise reduction']",fully remote
+981,hearing,15,high school,"['noise reduction', 'physical workspace modifications', 'assistive technology']",hybrid
+982,mobility,14,master,"['physical workspace modifications', 'flexible schedule']",in-office
+983,mobility,12,phd,['remote work'],in-office
+984,vision,1,associate,['flexible schedule'],hybrid
+985,cognitive,20,master,"['assistive technology', 'modified training materials', 'flexible schedule']",in-office
+986,vision,12,high school,"['physical workspace modifications', 'flexible schedule']",hybrid
+987,vision,13,bachelor,"['remote work', 'flexible schedule']",hybrid
+988,psychiatric,3,high school,['noise reduction'],hybrid
+989,psychiatric,15,high school,['noise reduction'],fully remote
+990,vision,16,associate,"['remote work', 'flexible schedule']",hybrid
+991,vision,6,phd,"['flexible schedule', 'physical workspace modifications']",in-office
+992,vision,3,bachelor,"['flexible schedule', 'physical workspace modifications']",hybrid
+993,vision,3,high school,"['physical workspace modifications', 'remote work']",in-office
+994,chronic health,8,phd,['physical workspace modifications'],in-office
+995,mobility,14,phd,"['flexible schedule', 'physical workspace modifications']",hybrid
+996,hearing,18,phd,['physical workspace modifications'],fully remote
+997,mobility,7,phd,"['remote work', 'flexible schedule']",hybrid
+998,cognitive,10,associate,"['modified training materials', 'noise reduction', 'physical workspace modifications', 'assistive technology']",in-office
+999,mobility,9,master,"['flexible schedule', 'remote work']",hybrid
